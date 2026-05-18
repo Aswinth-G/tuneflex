@@ -1,7 +1,7 @@
 # tuneflex
 AI-powered image-to-music and text-to-singing system
 
-# TuneFlex 🎵
+# TuneFlex 
 
 ## Problem Statement
 Current music applications rely on manual search. This project introduces an AI-based system that converts images into music and generates singing audio from text input.

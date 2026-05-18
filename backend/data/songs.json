@@ -1,0 +1,12 @@
+[
+  {
+    "title": "Tum Hi Ho",
+    "audio_path": "/path/to/tum_hi_ho.mp3",
+    "tags": ["romantic", "sad"]
+  },
+  {
+    "title": "Another Song",
+    "audio_path": "/path/to/another_song.mp3",
+    "tags": ["happy", "pop"]
+  }
+]

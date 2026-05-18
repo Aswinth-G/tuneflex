@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "729844100537",
+    "project_id": "tuneflex-47648",
+    "storage_bucket": "tuneflex-47648.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:729844100537:android:c88ef6f51f997ad39ada68",
+        "android_client_info": {
+          "package_name": "com.tuneflex.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBzTWpJjYYf2eZlUQR_g9lIZ6yvRQS57I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,23 @@
+fastapi
+uvicorn[standard]
+pydantic
+pymongo
+python-multipart
+bcrypt
+PyJWT
+python-dotenv
+
+# Additional dependencies for Text-to-Sing
+numpy
+scipy
+opencv-python
+ultralytics
+Pillow
+python-jose[cryptography]
+passlib[bcrypt]
+
+# Firebase Admin SDK for Storage (optional - if still needed for other features)
+firebase-admin
+
+# Cloudinary for media storage
+cloudinary
